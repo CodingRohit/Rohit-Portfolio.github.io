@@ -229,6 +229,7 @@ section {
     display: flex;
     gap: 2.5rem;
     margin-top: 5rem;
+    overflow-x: auto;
 }
     
 .portfolio-content{
